@@ -1,10 +1,13 @@
 ![profile picture](https://avatars1.githubusercontent.com/u/59891266?s=400&u=0eabf61ee4dbe4aa1c54bf3fc192e6b10dae54e2&v=4)
 
 # **Patrick Hurley**
-## **Aspiring Web Developer**
+## ***Aspiring Web Developer***
+---
 
 
-About me:  
+About me
+---
+Hello! My name is Patrick Hurley. I'm soon-to-be Front End Developer living in New York. My focus is on writing clean, elegant and efficient code while also designing beautiful and functional user experiences. 
 
 Portfolio
 ---
