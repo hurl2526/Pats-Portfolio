@@ -18,11 +18,16 @@ Check out my latest projects...
    * [21 Questions](https://github.com/mpassade-CI/push-pull-project)
    
 
-Past experience
-* work experience
-* work experience
-* work experience
+Skills
+---
+* Former Army medic currently holding EMT, BLS, and CPR certifications
+  
+* Finance major with extensive experience in accounting software 
+* Excellent written and verbal communication skills
+* Ability to multi-task, prioritize, and coordinate resources across departments
+* Soon-to-be full-stack web developer and UI/UX javascript specialist
+---
 
-If you'd like to take a closer look at what I'm working on feel free to check out my Github page...  
-[Patrick.Hurley@GitHub](https://github.com/hurl2526)
+
+For a closer look feel free to check out my Github page...[Patrick.Hurley@GitHub](https://github.com/hurl2526)
 
