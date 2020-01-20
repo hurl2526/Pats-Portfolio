@@ -1,15 +1,17 @@
+<div style="text-align: center">
+
 ![profile picture](https://avatars1.githubusercontent.com/u/59891266?s=400&u=0eabf61ee4dbe4aa1c54bf3fc192e6b10dae54e2&v=4)
 
-# **Patrick Hurley**
+ # **Patrick Hurley**
 ## ***Aspiring Web Developer***
 ---
+</div>
 
-
-About me
+**About me**
 ---
 Hello! My name is Patrick Hurley. I'm soon-to-be Front End Developer living in New York. My focus is on writing clean, elegant and efficient code while also designing beautiful and functional user experiences. 
 
-Portfolio
+**Portfolio**
 ---
 
 Check out my latest projects...  
@@ -21,7 +23,7 @@ Check out my latest projects...
    * [21 Questions](https://github.com/mpassade-CI/push-pull-project)
    
 
-Skills
+**Skills**
 ---
 * Former Army medic currently holding EMT, BLS, and CPR certifications
   
@@ -33,4 +35,3 @@ Skills
 
 
 For a closer look feel free to check out my Github page...[Patrick.Hurley@GitHub](https://github.com/hurl2526)
-
