@@ -6,14 +6,17 @@
 
 About me:  
 
-Portfolio  
+Portfolio
+---
 
-Take a look at some of the projects I've been working on...
-1. project one
-2. Project 2
-3. project 3
-4. project 4
-5. project 56
+Check out my latest projects...  
+1. Zsh Cheat Sheet... 
+   * [Cheat-Sheet](https://github.com/hurl2526/terminal-cheat-sheet)
+2. Friends themed terminal practice
+   * [F-R-I-E-N-D-S](https://github.com/hurl2526/friends-terminal-practice)
+3. 21 questions/Intro to Github collaboration
+   * [21 Questions](https://github.com/mpassade-CI/push-pull-project)
+   
 
 Past experience
 * work experience
