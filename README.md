@@ -3,6 +3,7 @@
 # **Patrick Hurley**
 ## **Aspiring Web Developer**
 
+
 About me:  
 
 Portfolio  
@@ -19,5 +20,6 @@ Past experience
 * work experience
 * work experience
 
-Closing thoughts and link to github
+If you'd like to take a closer look at what I'm working on feel free to check out my Github page...  
+[Patrick.Hurley@GitHub](https://github.com/hurl2526)
 
