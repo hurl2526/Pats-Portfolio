@@ -1,4 +1,5 @@
-<div style="text-align: center">
+<body style="color:red;">
+ <div style="text-align: center">
 
 ![profile picture](https://avatars1.githubusercontent.com/u/59891266?s=400&u=0eabf61ee4dbe4aa1c54bf3fc192e6b10dae54e2&v=4)
 
@@ -35,3 +36,4 @@ Check out my latest projects...
 
 
 For a closer look feel free to check out my Github page...[Patrick.Hurley@GitHub](https://github.com/hurl2526)
+</body>
